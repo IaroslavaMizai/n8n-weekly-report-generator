@@ -10,7 +10,7 @@ This workflow automatically retrieves invoice data from Google Sheets, analyzes 
   <img src="images/workflow-overview_2.png" width="600">
 </p>
 
-## Workflow Architecture
+## Workflow Architecture   [Workflow.json](Workflow.json)
 
 ```text
 Weekly Schedule (Monday 9:00 AM)
