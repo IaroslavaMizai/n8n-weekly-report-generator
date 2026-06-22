@@ -6,8 +6,8 @@ This workflow automatically retrieves invoice data from Google Sheets, analyzes 
 
 ## Workflow
 
-<p align="center">
-  <img src="images/workflow-overview_2.png" width="800">
+<p align="left">
+  <img src="images/workflow-overview_2.png" width="600">
 </p>
 
 ## Workflow Architecture
