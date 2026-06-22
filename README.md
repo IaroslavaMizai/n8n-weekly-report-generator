@@ -12,8 +12,6 @@ This workflow automatically retrieves invoice data from Google Sheets, analyzes 
 
 ## Workflow Architecture   
 
-[Workflow.json](Workflow.json)
-
 ```text
 Weekly Schedule (Monday 9:00 AM)
            │
@@ -32,6 +30,7 @@ Weekly Schedule (Monday 9:00 AM)
            ▼
       Gmail Report
 ```
+[Workflow.json](Workflow.json) 
 
 ## Overview
 
